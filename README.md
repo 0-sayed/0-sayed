@@ -1,4 +1,7 @@
-<!---
-0-sayed/0-sayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Sayed 👋
+
+**Backend engineer who builds full-stack when needed.**
+
+I specialize in **Node.js ecosystems**, **PostgreSQL**, and modern frontend with **React**. Currently diving deep into **agentic coding** and **AI-driven development**. I thrive on challenging projects.
+
+---

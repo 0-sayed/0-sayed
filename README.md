@@ -1,6 +1,6 @@
 # Hi, I'm Sayed 👋
 
-**Backend Engineer & AI Product Engineer (Exploring)**
+**Backend Engineer**
 
 I am a **Software Maker** who builds robust, full-stack systems when needed. I specialize in **Node.js ecosystems**, **PostgreSQL**, and modern frontend with **React**. 
 
